@@ -46,9 +46,9 @@
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yusufzamzami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-ilham&layout=compact&theme=tokyonight&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusufzamzami&layout=compact&theme=tokyonight&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yusuf-ilham&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yusufzamzami&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -56,13 +56,13 @@
 
 <div align="center">
   
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=yusuf-ilham&theme=tokyonight&no-frame=true&row=1&column=7)
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=Yusufzamzami&theme=tokyonight&no-frame=true&row=1&column=7)
   
 </div>
 
 ## 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yusuf-ilham&theme=tokyo-night&hide_border=true)](https://github.com/yusuf-ilham)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yusufzamzami&theme=tokyo-night&hide_border=true)](https://github.com/Yusufzamzami)
 
 ## 🔥 Featured Projects
 
