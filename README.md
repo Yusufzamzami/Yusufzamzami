@@ -12,7 +12,7 @@
 - 🌱 I'm currently learning advanced React patterns and performance optimization
 - 👯 I'm looking to collaborate on frontend projects and open source
 - 💬 Ask me about React, JavaScript, and modern frontend development
-- 📫 How to reach me: **yusuf.ilham@example.com**
+- 📫 How to reach me: **yusufzamzamijr@gmail.com**
 - ⚡ Fun fact: I love creating pixel-perfect UIs!
 
 ## 🛠️ Tech Stack
