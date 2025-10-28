@@ -68,8 +68,8 @@
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yusuf-ilham&repo=awesome-portfolio&theme=tokyonight&hide_border=true)](https://github.com/yusuf-ilham/awesome-portfolio)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yusuf-ilham&repo=react-dashboard&theme=tokyonight&hide_border=true)](https://github.com/yusuf-ilham/react-dashboard)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Yusufzamzami&repo=awesome-portfolio&theme=tokyonight&hide_border=true)](https://github.com/Yusufzamzami/awesome-portfolio)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Yusufzamzami&repo=react-dashboard&theme=tokyonight&hide_border=true)](https://github.com/Yusufzamzami/react-dashboard)
 
 </div>
 
